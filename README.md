@@ -22,7 +22,7 @@
 
 ## Repository Description
 
-This project is my first attempt to turn a repository into a website using GitHub Pages. It contains summaries of LinkedIn Learning courses in bullet point form. The courses are about information technology and business. 
+This project is my second attempt to turn a repository into a website using GitHub Pages. It contains summaries of the Coursera course "Fundamentals of Investing" in bullet point form. 
 
 ## Credits 
 
