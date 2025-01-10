@@ -1,24 +1,24 @@
 <!-- README file for GitHub Pages website-->
 
-# LinkedIn Learning Course Summary Website
+# Coursera Course Summary Website
 
 ## Metadata
 
 - <ins>Website Owner</ins>: [@dark-teal-coder](github.com/dark-teal-coder)
-- <ins>First Published Date</ins>: 2024-11-29
-- <ins>Website URL</ins>: https://dark-teal-coder.github.io/web-linkedin-learning-course-summary/
+- <ins>First Published Date</ins>: 2024-01-10
+- <ins>Website URL</ins>: 
 
 ## Project
 
-- **Title**: *LinkedIn Learning Course Summary Website*
+- **Title**: *Coursera Course Summary Website*
 - **Difficulty**:
   - [x] Beginner
   - [ ] Intermediate
   - [ ] Advanced
 - **Scale**:
   - [ ] Small
-  - [ ] Medium
-  - [x] Big
+  - [x] Medium
+  - [ ] Big
 
 ## Repository Description
 
@@ -37,4 +37,4 @@ This project is my first attempt to turn a repository into a website using GitHu
 
 &nbsp;
 
-*1st Completion Date: Dec 12, 2024*&emsp;
+*1st Completion Date: XXX 00, 2025*&emsp;
