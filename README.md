@@ -22,7 +22,7 @@
 
 ## Repository Description
 
-This project is my second attempt to turn a repository into a website using GitHub Pages. It contains summaries of the Coursera course "Fundamentals of Investing" in bullet point form. 
+This project is my second attempt to turn a repository into a website using GitHub Pages but is my first attempt to make a multi-page website. It contains summaries of the Coursera course "Fundamentals of Investing" in bullet point form. 
 
 ## Credits 
 
