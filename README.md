@@ -38,4 +38,5 @@ This project is my second attempt to turn a repository into a website using GitH
 &nbsp;
 
 *1st Completion Date: Mar 05, 2025*&emsp;
+&nbsp;
 *2nd Completion Date: Xxx 00, 2025*&emsp;
