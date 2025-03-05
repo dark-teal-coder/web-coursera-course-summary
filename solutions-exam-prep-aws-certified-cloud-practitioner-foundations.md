@@ -9,6 +9,17 @@ For type 1, start the solution with `- [x]`; for type 2, start each choice with 
 
 ---
 
+## Introduction
+
+This web page contains the solutions to the online course "Exam Prep: AWS Certified Cloud Practitioner Foundations" provided by Amazon Web Services (AWS).
+
+## Course Information
+
+- <ins>Course Provider</ins>: Amazon Web Services (AWS)
+- <ins>Course Platform</ins>: Coursera
+- <ins>Course Title</ins>: Exam Prep: AWS Certified Cloud Practitioner Foundations
+- <ins>Course URL</ins>: https://www.coursera.org/learn/cloud-practitioner-exam-prep
+
 ## Module 04
 
 ### 04.01 Benchmark Assessment
